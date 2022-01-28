@@ -416,6 +416,7 @@ li {
 }
 body{
   background: url(/portfolio/img/logo.png) #fff left top repeat;
+  text-align: center;
 }
 
 .page-top .material-icons-outlined {
